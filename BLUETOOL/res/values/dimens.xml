@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_height">45dp</dimen>
+    
+    <dimen name="key_board_height">60dp</dimen>
+
+    <dimen name="bbuton_rounded_corner_radius">5dp</dimen>
+    
+    <dimen name="new_below_title">15dp</dimen>
+    
+    <dimen name="default_text_view_size">14sp</dimen><!-- 默认字体大小 -->
+    <dimen name="default_view_height">40dp</dimen><!-- 默认控件高度 -->
+    
+    <dimen name="default_division">15dp</dimen>
+    
+    <dimen name="default_text_view_mainhead">16sp</dimen><!-- 默认主标题的字体大小 -->
+    <dimen name="default_title_text_size">18sp</dimen> <!-- 默认标题字体的大小 -->
+</resources>
