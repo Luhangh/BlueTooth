@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.regex.Pattern;
 
 /**
- * 瀛楃涓叉搷浣滃伐鍏峰寘
+ * 字符串操作工具包
  * 
  * @author liux (http://my.oschina.net/liux)
  * @version 1.0
@@ -34,9 +34,28 @@ public class StringUtils {
 			return new SimpleDateFormat("yyyy-MM-dd");
 		}
 	};
+	public static boolean isNotEmpty(String s) {
+		return s != null && !"".equals(s.trim());
+	}
+
 
 	/**
-	 * 灏嗗瓧绗︿覆杞綅鏃ユ湡绫诲瀷
+	 * ͨ��{n},��ʽ��.
+	 *
+	 * @param src
+	 * @param objects
+	 * @return
+	 */
+	public static String format(String src, Object... objects) {
+		int k = 0;
+		for (Object obj : objects) {
+			src = src.replace("{" + k + "}", obj.toString());
+			k++;
+		}
+		return src;
+	}
+	/**
+	 * 将字符串转位日期类型
 	 * 
 	 * @param sdate
 	 * @return
@@ -50,7 +69,7 @@ public class StringUtils {
 	}
 
 	/**
-	 * 浠ュ弸濂界殑鏂瑰紡鏄剧ず鏃堕棿
+	 * 以友好的方式显示时间
 	 * 
 	 * @param sdate
 	 * @return
@@ -63,7 +82,7 @@ public class StringUtils {
 		String ftime = "";
 		Calendar cal = Calendar.getInstance();
 
-		// 鍒ゆ柇鏄惁鏄悓涓�澶�
+		// 判断是否是同一天
 		String curDate = dateFormater2.get().format(cal.getTime());
 		String paramDate = dateFormater2.get().format(time);
 		if (curDate.equals(paramDate)) {
@@ -71,9 +90,9 @@ public class StringUtils {
 			if (hour == 0)
 				ftime = Math.max(
 						(cal.getTimeInMillis() - time.getTime()) / 60000, 1)
-						+ "鍒嗛挓鍓�";
+						+ "分钟前";
 			else
-				ftime = hour + "灏忔椂鍓�";
+				ftime = hour + "小时前";
 			return ftime;
 		}
 
@@ -85,15 +104,15 @@ public class StringUtils {
 			if (hour == 0)
 				ftime = Math.max(
 						(cal.getTimeInMillis() - time.getTime()) / 60000, 1)
-						+ "鍒嗛挓鍓�";
+						+ "分钟前";
 			else
-				ftime = hour + "灏忔椂鍓�";
+				ftime = hour + "小时前";
 		} else if (days == 1) {
-			ftime = "鏄ㄥぉ";
+			ftime = "昨天";
 		} else if (days == 2) {
-			ftime = "鍓嶅ぉ";
+			ftime = "前天";
 		} else if (days > 2 && days <= 10) {
-			ftime = days + "澶╁墠";
+			ftime = days + "天前";
 		} else if (days > 10) {
 			ftime = dateFormater2.get().format(time);
 		}
@@ -101,7 +120,7 @@ public class StringUtils {
 	}
 	
 	/**
-	 * 褰撳墠鏃堕棿绮剧‘鍒版绉掓暟
+	 * 当前时间精确到毫秒数
 	 * 
 	 * @param sdate
 	 * @return boolean
@@ -113,7 +132,7 @@ public class StringUtils {
 	}
 	
 	/**
-	 * 褰撳墠鏃堕棿绮剧‘鍒版绉掓暟骞惰浆鍖栦负date
+	 * 当前时间精确到毫秒数并转化为date
 	 * 
 	 * @param sdate
 	 * @return boolean
@@ -128,7 +147,7 @@ public class StringUtils {
 		return time;
 	}
 	/**
-	 * 鍒ゆ柇缁欏畾瀛楃涓叉椂闂存槸鍚︿负浠婃棩
+	 * 判断给定字符串时间是否为今日
 	 * 
 	 * @param sdate
 	 * @return boolean
@@ -147,7 +166,7 @@ public class StringUtils {
 		return b;
 	}
 	/**
-	 * 鍒ゆ柇String鏁扮粍鏄惁涓虹┖
+	 * 判断String数组是否为空
 	 * 
 	 * @param sdate
 	 * @return boolean
@@ -160,7 +179,7 @@ public class StringUtils {
 		}
 	
 	/**
-	 * 鍒ゆ柇缁欏畾瀛楃涓叉槸鍚︾┖鐧戒覆銆� 绌虹櫧涓叉槸鎸囩敱绌烘牸銆佸埗琛ㄧ銆佸洖杞︾銆佹崲琛岀缁勬垚鐨勫瓧绗︿覆 鑻ヨ緭鍏ュ瓧绗︿覆涓簄ull鎴栫┖瀛楃涓诧紝杩斿洖true
+	 * 判断给定字符串是否空白串。 空白串是指由空格、制表符、回车符、换行符组成的字符串 若输入字符串为null或空字符串，返回true
 	 * 
 	 * @param input
 	 * @return boolean
@@ -179,7 +198,17 @@ public class StringUtils {
 	}
 
 	/**
-	 * 鍒ゆ柇鏄笉鏄竴涓悎娉曠殑鐢靛瓙閭欢鍦板潃
+	 * 利用正则表达式把电话号码的中间四位变为****
+	 *
+	 * @param input
+	 * @return String
+	 */
+	public String  Phonexx(String input) {
+		return input.replaceAll("(\\d{3})\\d{4}(\\d{4})", "$1****$2");
+	}
+
+	/**
+	 * 判断是不是一个合法的电子邮件地址
 	 * 
 	 * @param email
 	 * @return
@@ -191,7 +220,7 @@ public class StringUtils {
 	}
 
 	/**
-	 * 瀛楃涓茶浆鏁存暟
+	 * 字符串转整数
 	 * 
 	 * @param str
 	 * @param defValue
@@ -206,10 +235,10 @@ public class StringUtils {
 	}
 
 	/**
-	 * 瀵硅薄杞暣鏁�
+	 * 对象转整数
 	 * 
 	 * @param obj
-	 * @return 杞崲寮傚父杩斿洖 0
+	 * @return 转换异常返回 0
 	 */
 	public static int toInt(Object obj) {
 		if (obj == null)
@@ -218,10 +247,10 @@ public class StringUtils {
 	}
 
 	/**
-	 * 瀵硅薄杞暣鏁�
+	 * 对象转整数
 	 * 
 	 * @param obj
-	 * @return 杞崲寮傚父杩斿洖 0
+	 * @return 转换异常返回 0
 	 */
 	public static long toLong(String obj) {
 		try {
@@ -232,10 +261,10 @@ public class StringUtils {
 	}
 
 	/**
-	 * 瀛楃涓茶浆甯冨皵鍊�
+	 * 字符串转布尔值
 	 * 
 	 * @param b
-	 * @return 杞崲寮傚父杩斿洖 false
+	 * @return 转换异常返回 false
 	 */
 	public static boolean toBool(String b) {
 		try {
@@ -244,14 +273,36 @@ public class StringUtils {
 		}
 		return false;
 	}
-
 	/**
-	 * 灏嗗瓧绗︿覆涓棿鐢ㄦ槦鍙烽殣钘�
+	 * 将字符串小写转换为大写（包含数字）
+	 *
+	 *
+	 */
+
+	public static String exChange(String str){
+		StringBuffer sb = new StringBuffer();
+		if(str!=null){
+			for(int i=0;i<str.length();i++){
+				char c = str.charAt(i);
+				if(Character.isUpperCase(c)){
+					sb.append(Character.toLowerCase(c));
+				}else if(Character.isLowerCase(c)){
+					sb.append(Character.toUpperCase(c));
+				}else{
+					sb.append(c);
+				}
+			}
+		}
+
+		return sb.toString();
+	}
+	/**
+	 * 将字符串中间用星号隐藏
 	 * 
 	 * @param start
-	 *            浠庡摢涓�浣嶅紑濮嬮殣钘�
+	 *            从哪一位开始隐藏
 	 * @param end
-	 *            鏈�鍚庡墿鍑犱綅
+	 *            最后剩几位
 	 * 
 	 */
 	public static String hideString(String str, int start, int end) {
@@ -272,11 +323,11 @@ public class StringUtils {
 		}
 	}
 	/**
-	 * 鍒ゆ柇璋冪敤toString鏂规硶鐨勫璞℃槸涓嶆槸null锛岄伩鍏嶉�犳垚绌烘寚閽堝紓甯�
-	 * @param 浼犻�掔殑鍙傛暟
-	 * @return 濡傛灉浼犻�掔殑鍙傛暟鏄痭ull锛岃繑鍥炵┖涓诧紝鍚﹀垯杩斿洖obj.toString()
+	 * 判断调用toString方法的对象是不是null，避免造成空指针异常
+	 * @param 传递的参数
+	 * @return 如果传递的参数是null，返回空串，否则返回obj.toString()
 	 * 
-	 * null鍙互鐞嗚В涓哄師濮嬬被鍨嬭嚦浜庡彲浠ユ妸null浣滀负鍙傛暟鍙槸鐗规畩瑙勫畾
+	 * null可以理解为原始类型至于可以把null作为参数只是特殊规定
 	 * 
 	 */
 	public static String object2String(Object obj){
