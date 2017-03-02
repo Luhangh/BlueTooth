@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+ <!-- 透明 -->
+    <color name="red">#FF0000</color>
+ <!-- 红色 -->
+    <color name="white">#FFFFFF</color>
+ <!-- 白色 -->
+    <color name="black">#000000</color>
+ <!-- 黑色 -->
+    <color name="yellow">#FFFF00</color>
+ <!-- 黄色 -->
+    <color name="blue">#4F94CD</color>
+ <!-- 蓝色 -->
+    <color name="green">#00FF00</color>
+ <!-- 绿色 -->
+    <color name="reseda">#00ff99</color>
+ <!-- 浅绿色 -->
+    <color name="violet">#6600FF</color>
+ <!-- 紫色 -->
+    <color name="brown">#714f16</color>
+ <!-- 褐色 -->
+    <color name="gray">#808a87</color>
+    
+    <color name="gray2">#e2e2e2</color>
+    <color name="gray3">#b2b2b2</color>
+ <!-- 灰色 -->
+    <color name="orange">#EE7600</color>
+    <color name="beige">#f5f5dc</color>
+ <!-- 米色 -->
+    <color name="backcolor">#f0f0f0</color>
+ <!-- 全局背景色 -->
+    <color name="toastColor">#b95a15</color>
+    <color name="titleColor">#912696</color>
+    <color name="contentColor">#231f20</color>
+    <color name="linkColor">#247bd5</color>
+    <color name="gra_color">#d1d3d4</color>
+    <color name="topbar_text">#ffffff</color>
+    <color name="menu_bg">#8B8B83</color>
+    <color name="my_account_bg">#848484</color>
+    <color name="page_bg">#F0F0F0</color>
+    <color name="btn_bg">#218868</color>
+    <color name="light_red">#FF3600</color>
+ <!-- 浅红色 -->
+    <color name="blue_green">#119FA9</color>
+ <!-- 蓝绿色-菜单/标题背景色 -->
+    <color name="bg">#E2E2E2</color>
+ <!-- 背景色 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="color_bg_layout">#EDEDED</color>
+    <color name="color_more_line_gray">#D8D0C8</color>
+    <color name="bbutton_danger">#ffd9534f</color>
+    <color name="bbutton_danger_edge">#ffd43f3a</color>
+    <color name="bbutton_danger_pressed">#ffd2322d</color>
+    <color name="bbutton_danger_pressed_edge">#ffac2925</color>
+    <color name="bbutton_danger_disabled">#a5d9534f</color>
+    <color name="bbutton_danger_disabled_edge">#a5d43f3a</color>
+    <color name="bbutton_info">#ff5bc0de</color>
+    <color name="bbutton_info_edge">#ff46b8da</color>
+    <color name="bbutton_info_pressed">#ff39b3d7</color>
+    <color name="bbutton_info_pressed_edge">#ff269abc</color>
+    <color name="bbutton_info_disabled">#a55bc0de</color>
+    <color name="bbutton_info_disabled_edge">#a546b8da</color>
+    <color name="drop_down">#ff005092</color>
+    <color name="btn_exit">#ffa100</color>
+    
+    <!-- cha -->
+    <!--闪光深绿  -->
+    <color name="lime_green">#32cd32</color>
+    <color name = "top_green">#68AF2D</color>
+    
+    <!-- 后期贴牌只需要替换此处的值即可 -->
+    <color name="oem_top_color1">#122a88</color> 
+    <color name="oem_top_color2">#193baa</color>
+    
+    <color name="oem_bottom_color1">#8ec31f</color>
+    <color name="oem_bottom_color2">#a5d228</color>
+    
+    
+    <!-- title颜色   麦子支付FFFFFF -->
+    <color name="oem_top_title">#30333e</color>
+    
+    <color name="oem_menu_title">#ffffffff</color>
+    
+    <color name="bg_account_detail">#e2e2e2</color>
+    
+    <color name="bg_total">#faffef</color>
+    
+    <color name="bg_orange">#f07c0f</color>
+    
+    <!-- 新界面颜色 -->
+    <color name="ce_hua_text_color">#fff1b7</color><!-- 侧滑字体的颜色 -->
+    <color name="ce_hua_line_color">#cea726</color><!-- 侧滑横线的颜色 -->
+    <color name="ce_hua_text_bg">#C89D21</color>
+    <color name="ce_hua_text_bg_before">#00000000</color>
+    
+    <color name="new_btn_bg_before">#FF9800</color><!-- 下一步按钮点击前颜色   橙色-->
+    <color name="new_btn_bg_after">#FF9800</color><!-- 下一步按钮点击后颜色 橙色-->
+    <color name="new_btn_bg_before2">#00A4F9</color><!-- 下一步按钮点击前颜色   蓝色 -->
+    <color name="new_btn_bg_after2">#1db2ff</color><!-- 下一步按钮点击后颜色  蓝色-->
+    <color name="new_title_text">#FFFFFF</color> <!-- 顶部字体颜色  麦子支付FF6600 钱径33CCCC 刷卡啦#DA3424 华商51baff 刷客014898-->
+   	<color name="new_title_bottom">#51baff</color>
+    <color name="new_top_below_title">#EEEEEE</color>
+    <color name="new_bg_line">#E8E8E8</color> <!-- 分割线颜色 -->
+    <color name="new_text_color">#959595</color> <!-- 字体颜色值 -->
+    <color name="new_text_black1_color">#1d1d1d</color>
+    <color name="new_text_black3_color">#3C3C3C</color>
+    <color name="new_text_black5_color">#515151</color>
+    <color name="new_text_blacka_color">#A6A6A6</color>
+    
+    <color name="new_text_rede_color">#e40000</color>
+    <color name="new_app_bg">#EFEFF4</color>
+    
+    <color name="new_lock_page">#212735</color><!-- 手势锁背景 -->
+    <color name="new_lock_text">#4e5462</color><!-- 手势页面文字 -->
+    <color name="new_new">#FF8600</color>
+    <color name="new_new_text">#8E8E8E</color>
+    
+    <!-- 2016-1-8 -->
+    <color name="default_text_view_mainhead">#000000</color><!--正标题字体颜色-->
+    <color name="default_text_view_sgr">#6c6c6c</color>
+    <color name="default_text_view_subhead_white">#8e8e93</color><!-- 副标题字体颜色 白底-->
+    <color name="default_text_view_subhead_grey">#6D6D72</color><!-- 副标题字体颜色  灰底 -->
+    <color name="default_bg_color">#EFEFF4</color><!-- 默认背景颜色 -->
+    
+    
+    <color name="default_text_view_gray">#A7A7A7</color>
+    <color name="default_bg_btn_orange">#F45000</color> <!-- 默认按钮点击前颜色 -->
+    <color name="default_bg_btn_orange2">#FF7200</color> <!-- 默认按钮点击后颜色 -->
+    
+</resources>

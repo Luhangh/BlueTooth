@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_enter.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\anim\\back_enter.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_exit.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\anim\\anim_exit.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_exit.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\anim\\back_exit.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_enter.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\anim\\anim_enter.xml"
+    }
+]

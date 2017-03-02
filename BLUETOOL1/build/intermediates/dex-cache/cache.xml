@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83f4e1952791444249d9477ae549192d6f6af8a1">
+        <dex dex="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aea04f7cff98a45a5e33e288b75cb7e86c73db08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0eac44f721959fb63f750f3c81f90f87b41a66bd">
+        <dex dex="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cad2399324b4996547b65e798e2ffc921d2c4cc5\classes.dex" />
+    </item>
+
+</items>

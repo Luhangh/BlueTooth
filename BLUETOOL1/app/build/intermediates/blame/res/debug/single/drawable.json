@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_btn_before.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\bg_rect_corner_btn_before.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_corner.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\btn_select_corner.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_whilte.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\bg_rect_corner_whilte.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_dialog_bg.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\textview_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_gray2.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\bg_rect_corner_gray2.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_btn_next_bg.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\new_btn_next_bg.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_touch.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\bg_rect_corner_touch.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\bg_rect_corner.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_btn_after.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable\\bg_rect_corner_btn_after.xml"
+    }
+]

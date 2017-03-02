@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res"/><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\generated\res\rs\debug"/><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res"><file name="anim_enter" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\anim\anim_enter.xml" qualifiers="" type="anim"/><file name="anim_exit" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\anim\anim_exit.xml" qualifiers="" type="anim"/><file name="back_enter" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\anim\back_enter.xml" qualifiers="" type="anim"/><file name="back_exit" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\anim\back_exit.xml" qualifiers="" type="anim"/><file name="bg_rect_corner" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\bg_rect_corner.xml" qualifiers="" type="drawable"/><file name="bg_rect_corner_btn_after" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\bg_rect_corner_btn_after.xml" qualifiers="" type="drawable"/><file name="bg_rect_corner_btn_before" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\bg_rect_corner_btn_before.xml" qualifiers="" type="drawable"/><file name="bg_rect_corner_gray2" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\bg_rect_corner_gray2.xml" qualifiers="" type="drawable"/><file name="bg_rect_corner_touch" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\bg_rect_corner_touch.xml" qualifiers="" type="drawable"/><file name="bg_rect_corner_whilte" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\bg_rect_corner_whilte.xml" qualifiers="" type="drawable"/><file name="btn_select_corner" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\btn_select_corner.xml" qualifiers="" type="drawable"/><file name="new_btn_next_bg" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\new_btn_next_bg.xml" qualifiers="" type="drawable"/><file name="textview_dialog_bg" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable\textview_dialog_bg.xml" qualifiers="" type="drawable"/><file name="blue_tooth_connect_f" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-hdpi\blue_tooth_connect_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="select_right" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-hdpi\select_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="yuanquan" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-hdpi\yuanquan.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="bbpos_blue_tooth_dialog" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\layout\bbpos_blue_tooth_dialog.xml" qualifiers="" type="layout"/><file name="blue_tooth_item_adapter" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\layout\blue_tooth_item_adapter.xml" qualifiers="" type="layout"/><file name="main" path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values\color.xml" qualifiers=""><color name="lime_green">#32cd32</color><color name="bbutton_danger_disabled">#a5d9534f</color><color name="menu_bg">#8B8B83</color><color name="new_new">#FF8600</color><color name="bg_orange">#f07c0f</color><color name="oem_top_color2">#193baa</color><color name="default_bg_color">#EFEFF4</color><color name="oem_top_color1">#122a88</color><color name="ce_hua_text_bg_before">#00000000</color><color name="bbutton_info">#ff5bc0de</color><color name="bg_total">#faffef</color><color name="new_btn_bg_after">#FF9800</color><color name="new_text_black3_color">#3C3C3C</color><color name="contentColor">#231f20</color><color name="ce_hua_text_color">#fff1b7</color><color name="new_top_below_title">#EEEEEE</color><color name="ce_hua_line_color">#cea726</color><color name="brown">#714f16</color><color name="bbutton_danger_disabled_edge">#a5d43f3a</color><color name="bbutton_danger_pressed_edge">#ffac2925</color><color name="new_new_text">#8E8E8E</color><color name="linkColor">#247bd5</color><color name="new_btn_bg_before2">#00A4F9</color><color name="transparent">#00000000</color><color name="possible_result_points">#c0ffff00</color><color name="default_bg_btn_orange">#F45000</color><color name="default_text_view_subhead_grey">#6D6D72</color><color name="beige">#f5f5dc</color><color name="bbutton_danger_edge">#ffd43f3a</color><color name="bg_account_detail">#e2e2e2</color><color name="toastColor">#b95a15</color><color name="ce_hua_text_bg">#C89D21</color><color name="default_text_view_mainhead">#000000</color><color name="bbutton_info_disabled_edge">#a546b8da</color><color name="green">#00FF00</color><color name="blue">#4F94CD</color><color name="light_red">#FF3600</color><color name="new_btn_bg_before">#FF9800</color><color name="new_text_rede_color">#e40000</color><color name="orange">#EE7600</color><color name="blue_green">#119FA9</color><color name="page_bg">#F0F0F0</color><color name="gray">#808a87</color><color name="default_text_view_sgr">#6c6c6c</color><color name="new_text_color">#959595</color><color name="color_bg_layout">#EDEDED</color><color name="new_text_black5_color">#515151</color><color name="white">#FFFFFF</color><color name="oem_menu_title">#ffffffff</color><color name="backcolor">#f0f0f0</color><color name="bbutton_danger">#ffd9534f</color><color name="result_view">#b0000000</color><color name="drop_down">#ff005092</color><color name="new_lock_text">#4e5462</color><color name="oem_top_title">#30333e</color><color name="violet">#6600FF</color><color name="new_title_bottom">#51baff</color><color name="black">#000000</color><color name="default_text_view_subhead_white">#8e8e93</color><color name="titleColor">#912696</color><color name="btn_bg">#218868</color><color name="btn_exit">#ffa100</color><color name="new_app_bg">#EFEFF4</color><color name="new_text_black1_color">#1d1d1d</color><color name="viewfinder_mask">#60000000</color><color name="bbutton_info_pressed_edge">#ff269abc</color><color name="gray3">#b2b2b2</color><color name="default_text_view_gray">#A7A7A7</color><color name="bbutton_info_pressed">#ff39b3d7</color><color name="red">#FF0000</color><color name="new_lock_page">#212735</color><color name="gray2">#e2e2e2</color><color name="my_account_bg">#848484</color><color name="bbutton_danger_pressed">#ffd2322d</color><color name="oem_bottom_color1">#8ec31f</color><color name="oem_bottom_color2">#a5d228</color><color name="yellow">#FFFF00</color><color name="top_green">#68AF2D</color><color name="bbutton_info_edge">#ff46b8da</color><color name="default_bg_btn_orange2">#FF7200</color><color name="new_bg_line">#E8E8E8</color><color name="reseda">#00ff99</color><color name="bg">#E2E2E2</color><color name="bbutton_info_disabled">#a55bc0de</color><color name="topbar_text">#ffffff</color><color name="color_more_line_gray">#D8D0C8</color><color name="new_btn_bg_after2">#1db2ff</color><color name="new_title_text">#FFFFFF</color><color name="new_text_blacka_color">#A6A6A6</color><color name="gra_color">#d1d3d4</color></file><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="default_text_view_size">14sp</dimen><dimen name="default_view_height">40dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="new_below_title">15dp</dimen><dimen name="default_text_view_mainhead">16sp</dimen><dimen name="key_board_height">60dp</dimen><dimen name="bbuton_rounded_corner_radius">5dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="default_division">15dp</dimen><dimen name="title_height">45dp</dimen><dimen name="default_title_text_size">18sp</dimen></file><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="app_name">蓝牙刷卡</string></file><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values\styles.xml" qualifiers=""><style name="ThemeSelector" parent="android:Theme.Light">
+    <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+    <item name="android:textAppearance">@style/TitleTextColor</item>
+    
+	</style><style name="btn_style">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#00ffffff</item>
+        <item name="android:drawablePadding">5dp</item>
+    </style><style name="editview_style">
+	    <item name="android:textSize">18sp</item>
+	    <item name="android:gravity">center_vertical</item>
+	    <item name="android:paddingLeft">10dp</item>
+	    <item name="android:textColor">#777779</item>
+	    <item name="android:layout_width">match_parent</item>
+	    <item name="android:layout_height">45dp</item>
+	    <item name="android:singleLine">true</item>
+	</style><style name="text_sm">
+	<item name="android:textSize">15sp</item>
+	<item name="android:textColor">@color/new_title_text</item>
+	<item name="android:gravity">left</item>
+	<item name="android:layout_width">wrap_content</item>
+	<item name="android:layout_height">wrap_content</item>
+	</style><style name="menu_radio_btn">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="default_subhead_textview_grey">
+        <item name="android:textSize">@dimen/default_text_view_size</item>
+        <item name="android:textColor">@color/default_text_view_subhead_grey</item>
+    </style><style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="editview_style_fill">
+	    <item name="android:textSize">16sp</item>
+	    <item name="android:gravity">center_vertical</item>
+	    <item name="android:paddingLeft">10dp</item>
+	    <item name="android:textColor">#777779</item>
+	    <item name="android:layout_width">match_parent</item>
+	    <item name="android:layout_height">match_parent</item>
+	    <item name="android:singleLine">true</item>
+	</style><style name="default_mainhead_textview">
+        <item name="android:textSize">@dimen/default_text_view_size</item>
+        <item name="android:textColor">@color/default_text_view_mainhead</item>
+    </style><style name="select_pay_style" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+         
+    </style><style name="default_edittext">
+        <item name="android:textSize">@dimen/default_text_view_size</item>
+        <item name="android:textColor">@color/default_text_view_subhead_white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style><style name="TitleTextColor">
+    	<item name="android:textColor">@color/white</item>
+	</style><style name="textview_title">
+	    <item name="android:textSize">18sp</item>
+	    <item name="android:textColor">@color/new_title_text</item>
+	    <item name="android:layout_centerInParent">true</item>
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	</style><style name="line">
+        <item name="android:background">#ffcccccc</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style><style name="next">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/new_btn_next_bg</item>
+    </style><style name="tv_help_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/blue</item>
+    </style><style name="et_input">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>      
+    </style><style name="textview_line_edit">
+        <item name="android:layout_width">1dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#e2e2e2</item>
+    </style><style name="line_style">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="CustomDialog" parent="android:style/Theme.Dialog">  
+          
+        <item name="android:windowBackground">@android:color/transparent</item>  
+          
+        <item name="android:windowNoTitle">true</item>  
+          
+        <item name="android:windowIsFloating">true</item>  
+          
+        <item name="android:backgroundDimEnabled">false</item>  
+          
+        <item name="android:windowFrame">@null</item>  
+    </style><style name="btn_select">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawableRight">@drawable/select_right</item>
+        <item name="android:background">@drawable/bg_rect_corner</item>      
+    </style><style name="next_enable">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/bg_rect_corner_gray2</item>
+    </style><style name="TextViewAlertDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/textview_dialog_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="drop_down_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style><style name="et_input_textview">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>      
+    </style><style name="AnimationActivity" parent="@android:style/Animation.Activity">  
+	    <item name="android:activityOpenEnterAnimation">@anim/anim_enter</item>  
+	    <item name="android:activityOpenExitAnimation">@anim/anim_exit</item>  	        
+	    <item name="android:activityCloseEnterAnimation">@anim/back_enter</item>  
+	    <item name="android:activityCloseExitAnimation">@anim/back_exit</item>  
+	</style><style name="NoTitleDialog" parent="android:style/Theme.Dialog">
+      	<item name="android:windowNoTitle">true</item>
+      	<item name="android:windowBackground">@color/transparent</item>
+    </style><style name="default_subhead_textview_white">
+        <item name="android:textSize">@dimen/default_text_view_size</item>
+        <item name="android:textColor">@color/default_text_view_subhead_white</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+         
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="android:windowNoTitle">true</item>
+         
+        
+    </style><style name="default_btn">
+        <item name="android:textSize">@dimen/default_text_view_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/new_btn_next_bg</item>
+    </style><style name="btn_bg_with_left_pic">
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+        <item name="android:background">@drawable/btn_select_corner</item>
+        <item name="android:gravity">left|center</item>
+    </style><style name="WindowTitleBackground">
+	</style><style name="DialogText">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">12sp</item>
+    </style><style name="btn_select_textview">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawableRight">@drawable/select_right</item>
+        <item name="android:background">@null</item>      
+    </style><style name="DialogText.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="default_next_btn" parent="default_btn">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_height">@dimen/default_view_height</item>
+        <item name="android:layout_width">match_parent</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\generated\res\rs\debug"/><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\git_res\android-architecture\android-architecture\BLUETOOL\app\src\debug\res"/></dataSet><mergedItems/></merger>

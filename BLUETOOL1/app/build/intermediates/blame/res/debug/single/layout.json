@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bbpos_blue_tooth_dialog.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\layout\\bbpos_blue_tooth_dialog.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blue_tooth_item_adapter.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\layout\\blue_tooth_item_adapter.xml"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

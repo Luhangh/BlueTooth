@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_right.png",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable-hdpi\\select_right.png"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue_tooth_connect_f.png",
+        "source": "F:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\src\\main\\res\\drawable-hdpi\\blue_tooth_connect_f.png"
+    }
+]

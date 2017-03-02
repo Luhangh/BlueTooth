@@ -1,0 +1,7 @@
+#Thu Mar 02 10:48:57 CST 2017
+base.0=F\:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aea04f7cff98a45a5e33e288b75cb7e86c73db08
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cad2399324b4996547b65e798e2ffc921d2c4cc5\\classes.dex
+base.1=F\:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cad2399324b4996547b65e798e2ffc921d2c4cc5
+file.0=F\:\\git_res\\android-architecture\\android-architecture\\BLUETOOL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aea04f7cff98a45a5e33e288b75cb7e86c73db08\\classes.dex
